@@ -1,0 +1,11 @@
+{
+  "name": "rit_ted",
+  "version": "1.0.0",
+  "description": "Live deployment link : https://chinmaynadgir.github.io/RIT_ted/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prafull",
+  "license": "ISC"
+}
